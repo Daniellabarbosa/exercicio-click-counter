@@ -1,0 +1,5 @@
+<resources>
+    <string name="clickcounter">ViewModelDemo_starter</string>
+    <string name="click_click_click">Click! Click! Click!</string>
+    <string name="todo">TODO</string>
+</resources>
